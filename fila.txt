@@ -1,0 +1,1 @@
+Uma fila é uma estrutura de dados linear que segue o princípio FIFO (First-In, First-Out), ou "primeiro a entrar, primeiro a sair". Isso significa que os elementos são adicionados no final da fila e removidos no início, seguindo a ordem em que foram inseridos. Aplicações comuns incluem o gerenciamento de tarefas, filas de impressão e o processamento de requisições de serviço. 

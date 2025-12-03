@@ -1,12 +1,1 @@
-thiago fabio pedro
-
-class Cachorro:
-    especie = 'Mamífero' # variável de classe
-
-    def __init__(self, nome, idade):
-        self.nome = nome  # variável de instância
-        self.idade = idade # variável de instância
-
-    def latir(self):
-        return f"{self.nome} está latindo!"
-        print (self, nome, idade) 
+Uma pilha é uma estrutura de dados linear que segue o princípio LIFO (Last In, First Out - o último a entrar é o primeiro a sair). Ela funciona como uma pilha de pratos: os elementos são adicionados no topo e removidos do topo. As principais operações são push (adicionar um elemento) e pop (remover um elemento), ambas realizadas no topo da estrutura. 

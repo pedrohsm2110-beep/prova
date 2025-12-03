@@ -1,1 +1,1 @@
-thiago
+A principal diferença é que arrays possuem tamanho fixo e são armazenados em memória de forma contínua, o que os torna mais eficientes para operações matemáticas e acesso rápido. Já as listas são dinâmicas, podem crescer ou diminuir conforme necessário, e seus elementos não precisam estar contíguos na memória, pois cada um contém um ponteiro para o próximo.  
