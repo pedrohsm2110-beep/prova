@@ -1,1 +1,12 @@
 thiago fabio pedro
+
+class Cachorro:
+    especie = 'Mamífero' # variável de classe
+
+    def __init__(self, nome, idade):
+        self.nome = nome  # variável de instância
+        self.idade = idade # variável de instância
+
+    def latir(self):
+        return f"{self.nome} está latindo!"
+        print (self, nome, idade) 
